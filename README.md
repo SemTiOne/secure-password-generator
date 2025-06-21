@@ -1,4 +1,3 @@
-# secure-password-generator
 # 🔐 Secure Password Generator
 
 A secure and customizable password generator written in Python.
